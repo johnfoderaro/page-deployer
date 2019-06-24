@@ -1,0 +1,8 @@
+{
+  "destination": "droplet external ip",
+  "domain": "name of project",
+  "existing": true,
+  "path": "path for built html file",
+  "ssl": true,
+  "user": "user name on droplet"
+}
