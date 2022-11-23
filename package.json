@@ -20,7 +20,7 @@
     "ejs": "^2.6.1"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "mocha": "^6.1.4"
   }
 }
